@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Log out.png</file>
+    <file>employee.png</file>
+    <file>media files.png</file>
+    <file>sales.png</file>
+    <file>design.png</file>
+    <file>icon sa babaw.png</file>
+    <file>image-removebg-preview.png</file>
+    <file>dashboard.png</file>
+  </qresource>
+</RCC>
